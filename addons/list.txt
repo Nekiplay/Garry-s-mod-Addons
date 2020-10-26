@@ -1,1 +1,1 @@
-weapons/gsmartwatch.zip
+weapons/gsmartwatch.zip : https://media.gmodstore.com/_/script_media/f0106ac4432f6cc3f04eb8e80e260e7a.png
