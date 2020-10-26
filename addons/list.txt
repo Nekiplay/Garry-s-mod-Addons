@@ -1,3 +1,3 @@
-weapons/gsmartwatch.zip : https://media.gmodstore.com/0.5x/script_banners/6ddee1ae80de4d261c417017312ec3ad.png
-entity/slawer_mayor.zip : https://media.gmodstore.com/0.5x/script_banners/a884ea6c835b384f43cf794487accd04.png
-entity/zeros_trashman.zip : https://media.gmodstore.com/0.5x/script_banners/ae11eacc6675b459746e024e198e6dde.png
+weapons/gsmartwatch.zip<https://media.gmodstore.com/0.5x/script_banners/6ddee1ae80de4d261c417017312ec3ad.png>
+entity/slawer_mayor.zip<https://media.gmodstore.com/0.5x/script_banners/a884ea6c835b384f43cf794487accd04.png>
+entity/zeros_trashman.zip<https://media.gmodstore.com/0.5x/script_banners/ae11eacc6675b459746e024e198e6dde.png>
